@@ -1,5 +1,5 @@
 name: id-token permissions (write)
-run-name: ${{ github.actor }} is testing id-token permissions (read)
+run-name: ${{ github.actor }} is testing id-token permissions (write)
 on: [push, workflow_dispatch]
 
 permissions:
